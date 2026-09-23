@@ -1,17 +1,10 @@
-# Zion AI CAB Assistant — Zion App Network
+# Zion AI CAB Assistant
 
-AI change advisory board assistant — risk scoring, impact analysis, and CAB meeting automation. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
+Change advisory board assistant.
 
-- 🔗 Live app: [https://ziontechgroup.com/zion-ai-cab-assistant/](https://ziontechgroup.com/zion-ai-cab-assistant/)
-- 🏠 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-ai-change-advisor](https://github.com/Zion-support/zion-ai-change-advisor) · [zion-ai-release-conductor](https://github.com/Zion-support/zion-ai-release-conductor) · [zion-ai-incident-commander](https://github.com/Zion-support/zion-ai-incident-commander) · [zion-devops-automation](https://github.com/Zion-support/zion-devops-automation)
 
-## Related apps in the network
-
-- [Zion AI Change Advisor](https://github.com/Zion-support/zion-ai-change-advisor) — change risk advisory
-- [Zion AI Release Conductor](https://github.com/Zion-support/zion-ai-release-conductor) — release orchestration
-- [Zion AI Incident Commander](https://github.com/Zion-support/zion-ai-incident-commander) — incident response orchestration
-- [Zion AI Infra Drift Detective](https://github.com/Zion-support/zion-ai-infra-drift-detective) — IaC drift detection
-- [Zion AI Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) — voice-of-customer insights
-
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
